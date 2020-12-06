@@ -7,22 +7,19 @@ namespace Portfolio
         static void Main(string[] args)
         {
             Console.Title = "Practice";
-            //Print this 
-            double num1;
-            double num2;
-            double num3;
-
-            Console.Write("Input your number: ");
-            num1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Input your second number: ");
-            num2 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Input your third Number: ");
-            num3 = Convert.ToDouble(Console.ReadLine());
-
-            double result = (num1 + num2 + num3)/3;
-            Console.WriteLine("Your average is " + result);
-
-            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine("ARE YOU READY FOR YOUR PROGRAMMING SKILL!!YES/OR NO");
+            string answer = (Console.ReadLine());
+            if (answer == "yes")
+            {
+                Console.WriteLine("That's Good for you to improve your skill");
+            }
+            else if (answer == "no")
+            {
+                Console.WriteLine("its okeyy maybe next time &_&");
+            }else
+            {
+                Console.WriteLine("Error!!");
+            }
             Console.ReadKey();
         }
     }
