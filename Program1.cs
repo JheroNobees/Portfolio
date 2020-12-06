@@ -7,7 +7,7 @@ namespace Portfolio
         static void Main(string[] args)
         {
             Console.Title = "Practice";
-
+            //Print this 
             Console.WriteLine("What is your name?");
             string user = Console.ReadLine();
             Console.WriteLine("Hello, " +user+ " Nice to meet you");
