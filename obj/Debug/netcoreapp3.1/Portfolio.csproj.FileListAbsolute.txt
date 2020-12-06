@@ -1,0 +1,13 @@
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.exe
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.deps.json
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.runtimeconfig.json
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.runtimeconfig.dev.json
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.dll
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\bin\Debug\netcoreapp3.1\Portfolio.pdb
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csprojAssemblyReference.cache
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.AssemblyInfo.cs
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.dll
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.pdb
+C:\Users\Jhe Ro\OneDrive\3rdYear2dAnimationGame\Unity\Portfolio\obj\Debug\netcoreapp3.1\Portfolio.genruntimeconfig.cache
