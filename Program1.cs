@@ -10,8 +10,12 @@ namespace Portfolio
 
             Console.WriteLine("What is your name?");
             string user = Console.ReadLine();
-            Console.Write("Hello, " +user+ " Nice to meet you");
+            Console.WriteLine("Hello, " +user+ " Nice to meet you");
+            Console.ReadLine();
+            Console.WriteLine("How's your day?");
+            Console.ReadLine();
             Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.WriteLine("That's Good ^_^");
             Console.ReadKey();
         }
     }
