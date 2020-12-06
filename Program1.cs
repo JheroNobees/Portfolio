@@ -8,14 +8,21 @@ namespace Portfolio
         {
             Console.Title = "Practice";
             //Print this 
-            Console.WriteLine("What is your name?");
-            string user = Console.ReadLine();
-            Console.WriteLine("Hello, " +user+ " Nice to meet you");
-            Console.ReadLine();
-            Console.WriteLine("How's your day?");
-            Console.ReadLine();
+            double num1;
+            double num2;
+            double num3;
+
+            Console.Write("Input your number: ");
+            num1 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Input your second number: ");
+            num2 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Input your third Number: ");
+            num3 = Convert.ToDouble(Console.ReadLine());
+
+            double result = (num1 + num2 + num3)/3;
+            Console.WriteLine("Your average is " + result);
+
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("That's Good ^_^");
             Console.ReadKey();
         }
     }
