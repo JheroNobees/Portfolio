@@ -6,20 +6,16 @@ namespace Portfolio
     {
         static void Main(string[] args)
         {
+            
             Console.Title = "Practice";
-            Console.WriteLine("ARE YOU READY FOR YOUR PROGRAMMING SKILL!!yes/orno");
-            string answer = (Console.ReadLine());
-            if (answer == "yes" || answer == "YES")
+            Console.Write("Input your number: ");
+            int count = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= count; i++)
             {
-                Console.WriteLine("That's Good for you to improve your skill");
+                double result = Math.Pow(2, i);
+                Console.WriteLine(result);
             }
-            else if (answer == "no" || answer == "NO")
-            {
-                Console.WriteLine("its okeyy maybe next time &_&");
-            }else
-            {
-                Console.WriteLine("Error!!");
-            }
+           
             Console.ReadKey();
         }
     }
