@@ -9,11 +9,11 @@ namespace Portfolio
             Console.Title = "Practice";
             Console.WriteLine("ARE YOU READY FOR YOUR PROGRAMMING SKILL!!yes/orno");
             string answer = (Console.ReadLine());
-            if (answer == "yes")
+            if (answer == "yes" || answer == "YES")
             {
                 Console.WriteLine("That's Good for you to improve your skill");
             }
-            else if (answer == "no")
+            else if (answer == "no" || answer == "NO")
             {
                 Console.WriteLine("its okeyy maybe next time &_&");
             }else
