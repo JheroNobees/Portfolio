@@ -6,12 +6,12 @@ namespace Portfolio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.ReadLine();
-            Console.WriteLine("How are you?");
-            Console.ReadLine();
+            Console.Title = "Practice";
+
+            Console.WriteLine("What is your name?");
+            string user = Console.ReadLine();
+            Console.Write("Hello, " +user+ " Nice to meet you");
             Console.ForegroundColor = ConsoleColor.DarkRed;
-            Console.WriteLine("GoodLuck for your Programming skill");
             Console.ReadKey();
         }
     }
