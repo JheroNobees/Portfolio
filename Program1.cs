@@ -7,7 +7,7 @@ namespace Portfolio
         static void Main(string[] args)
         {
             Console.Title = "Practice";
-            Console.WriteLine("ARE YOU READY FOR YOUR PROGRAMMING SKILL!!YES/OR NO");
+            Console.WriteLine("ARE YOU READY FOR YOUR PROGRAMMING SKILL!!yes/orno");
             string answer = (Console.ReadLine());
             if (answer == "yes")
             {
